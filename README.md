@@ -14,7 +14,7 @@ Tech Talent South Enablement
 - Hyper - https://hyper.is 
 - Git Bash (for Windows) - https://gitforwindows.org/
 
-## [Markup Language Cheatsheet](#)
+## [Markup Language Cheatsheet](http://qlx.services/enablement/files/readmeMD.pdf)
 
 ## Text Editors
 
@@ -65,7 +65,7 @@ Chocolatey has the largest online registry of Windows packages. Chocolatey packa
 ## Package Application Managers
 You can install the executables of Anaconda, Conda, Python or you can use a Package Application Manager that is applicable to your operating system. This allows you to maintain, update, install and configure all the necessary software components via automated scripting.
 
-[Data Science Setup and Installation Checklist](#)
+[Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/DataScienceChecklist.pdf)
 
 
 
