@@ -6,6 +6,8 @@ Tech Talent South Enablement
 
 **Viewer** - https://nbviewer.jupyter.org/github/enterlifeonline/techtalentsouth/tree/master/
 
+**Slack** - https://tts-students.slack.com
+
 **Tools** 
 
 - Anaconda (packages included) - https://www.anaconda.com/products/individual
