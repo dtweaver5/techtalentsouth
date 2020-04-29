@@ -2,6 +2,16 @@
 
 Tech Talent South Enablement
 
+## Documentation
+
+[Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf)
+
+[A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
+
+- - -
+
+## Useful Links
+
 **Github** - https://github.com/enterlifeonline/techtalentsouth
 
 **Viewer** - https://nbviewer.jupyter.org/github/enterlifeonline/techtalentsouth/tree/master/
@@ -10,27 +20,37 @@ Tech Talent South Enablement
 
 **Tools** 
 
-- Anaconda (packages included) - https://www.anaconda.com/products/individual
-- Miniconda (only Conda and Python packages included) - https://docs.conda.io/en/latest/miniconda.html
 - Powershell - https://aka.ms/powershell
 - Hyper - https://hyper.is 
 - Git Bash (for Windows) - https://gitforwindows.org/
 
-## [Markup Language Cheatsheet](http://qlx.services/enablement/files/readmeMD.pdf)
+- - -
 
-## Text Editors
+## Anaconda / Miniconda
+
+Anaconda is a free and open-source[6] distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. 
+
+- Anaconda (packages included) - https://www.anaconda.com/products/individual
+- Miniconda (only Conda and Python packages included) - https://docs.conda.io/en/latest/miniconda.html
+- [Markup Language Cheatsheet](http://qlx.services/enablement/files/readmeMD.pdf)
+
+## Code Editors
 
 - Microsoft Visual Studio - https://visualstudio.microsoft.com/downloads/
 - Sublime 3 - https://www.sublimetext.com/3
+- Atom - https://atom.io/
 
 ## Cloud
 - [Microsoft Azure](https://azure.microsoft.com/)
 
-## Package Managers
+- - - 
+
+## Package Application Managers
+
+You can install the executables of Anaconda, Conda, Python or you can use a Package Application Manager that is applicable to your operating system. This allows you to maintain, update, install and configure all the necessary software components via automated scripting.
 
 - [Brew (OS X, Linux)](https://brew.sh/)
 - [Chocolatey (Windows)](https://chocolatey.org/)
-
 
 ## What is BREW?
 
@@ -46,7 +66,6 @@ Home-brew installs the stuff you need that Apple or your Linux system didn’t.
 
 
 The simplest way to create a formula for your own software is to create a GitHub repository called homebrew-<something>; put your formula file in it; then type brew tap <username>/<something> to add this new source of formulae to your Homebrew installation and so get access to all its formulae.
-
 
 Companies have internal Homebrew taps for their own utilities. There are a lot of public taps like homebrew/science for scientific software, atlassian/tap for Atlassian software, and ska-sa/tap for radio astronomy.
 
@@ -64,10 +83,8 @@ Chocolatey has the largest online registry of Windows packages. Chocolatey packa
 
 - - -
 
-## Package Application Managers
-You can install the executables of Anaconda, Conda, Python or you can use a Package Application Manager that is applicable to your operating system. This allows you to maintain, update, install and configure all the necessary software components via automated scripting.
+Copyright © 2020 Qualex Consulting Services Limited.
 
-[Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/DataScienceChecklist.pdf)
 
 
 
