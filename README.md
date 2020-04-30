@@ -4,7 +4,7 @@ Tech Talent South Enablement
 
 ## Documentation
 
-[Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf)
+Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf)
 
 [A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
 
