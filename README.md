@@ -81,8 +81,4 @@ Chocolatey has the largest online registry of Windows packages. Chocolatey packa
 
 - - -
 
-Copyright © 2020 Qualex Consulting Services Limited.
-
-
-
-
+Copyright © 2020 Qualex Consulting Services Incorporated.
