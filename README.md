@@ -69,8 +69,6 @@ The simplest way to create a formula for your own software is to create a GitHub
 
 Companies have internal Homebrew taps for their own utilities. There are a lot of public taps like homebrew/science for scientific software, atlassian/tap for Atlassian software, and ska-sa/tap for radio astronomy.
 
-**[Brew Formula Cookbook](https://docs.brew.sh/Formula-Cookbook)**
-
 **[Brew Formulae / Casks](https://formulae.brew.sh/)**
 
 ## What is CHOCOLATEY?
