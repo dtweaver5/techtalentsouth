@@ -4,7 +4,7 @@ Tech Talent South Enablement
 
 ## Documentation
 
-Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf) Copyright 2020 Qualex Consulting Services Incorporated.
+Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf). Copyright 2020 Qualex Consulting Services Incorporated.
 
 [A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
 
