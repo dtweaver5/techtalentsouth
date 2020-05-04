@@ -8,6 +8,8 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 
 [A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
 
+[Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 - - -
 
 ## Useful Links
@@ -26,12 +28,31 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 
 - - -
 
-## Anaconda / Miniconda
+## Software
 
 Anaconda is a free and open-source[6] distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. 
 
 - Anaconda (packages included) - https://www.anaconda.com/products/individual
 - Miniconda (only Conda and Python packages included) - https://docs.conda.io/en/latest/miniconda.html
+
+### Installation
+
+To install the requirements using [conda](http://conda.pydata.org), run the following at the command-line:
+
+```
+$ conda install --file requirements.txt
+```
+
+To create a stand-alone environment named ``PDSH`` with Python 3.5 and all the required package versions, run the following:
+
+```
+$ conda create -n PDSH python=3.5 --file requirements.txt
+```
+
+You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
+
+### Markup Language
+
 - [Markup Language Cheatsheet](http://qlx.services/enablement/files/readmeMD.pdf)
 
 ## Code Editors
@@ -58,7 +79,6 @@ For Mac OS, Linux
 
 Home-brew installs the stuff you need that Apple or your Linux system didn’t.  
 [See list of all packages](https://formulae.brew.sh/formula/)
-
 
 	⁃	BREW package definition files are called “formulae”
 	⁃	BREW “cask”, just like a formula, is for GUI installs.
