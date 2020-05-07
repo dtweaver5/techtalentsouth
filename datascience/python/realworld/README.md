@@ -57,8 +57,19 @@ self.coords[1] += self.velocity * dt * math.sin(self.rot) # sy = v * dt * sin()
 
 - Python set’s item cannot be accessed using indexes. There is no index attached to set items.
 
+Example: ***Sets are more or less formal descriptions of what is included and what is not included. Thus, I think we do this daily when communicating with other people about various ideas, actions, objects. “Hey, I found this cool playlist on Spotify! Here are the songs: Heaven is a Place on Earth, What’s Up, What I Need, Same Love, Born This Way, Firework, We Can’t Stop.”***
+
 ```
-    > cd Documents
+
+{a character in the novel Noli Me Tangere} intersection {a character in the novel El Filibusterismo}
+
+{a national hero of the Philippines} intersection {historical figures in the Philippines}
+
+{a caffeinated drink} intersection {a carbonated drink}
+
+{a country of Southeast Asia} intersection {a country of Asia}
+
+{a Greek mythology goddess} intersection {an offspring of Zeus}
 
 ```
 
@@ -90,17 +101,11 @@ password_index =
     
 ```
 
-<hr>
-
-#### Lambda function
-
-
-
 - - -
 ## Other Real World Examples 
 
 - [Scrape Data from nearly Any Website](./web_scraping/01_rw_web_scraping.ipynb) which includes Javascript-enabled sites.
 - [Build Python applications for all types of automation](./automation/02_rw_automation.ipynb).
-- [Send Emails & SMS Text messages to your friends our your customers](./messaging/03_rw_messaging.ipynb).
+- [Send Emails & SMS Text messages](./messaging/03_rw_messaging.ipynb).
 - [Read & Write CSV](./csv/04_rw_csv.ipynb), comma separated values, files to better store your data locally and work in popular programs like Microsoft Excel and Apple Numbers.
 
