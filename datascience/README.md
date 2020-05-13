@@ -53,6 +53,8 @@ Anaconda is a free and open-source[6] distribution of the Python and R programmi
 
 ### Installation
 
+Instructions on Installation on a [ChromeBook OS](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/)
+
 To install the requirements using [conda](http://conda.pydata.org), run the following at the command-line:
 
 ```
