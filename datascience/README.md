@@ -4,15 +4,17 @@
 
 ## QLX Institute
 
-## Documentation
+### Documentation
 
 QLX-I [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/qlx-iDataScienceChecklist.pdf)
 
 -->
 
-# Tech Talent South Enablement
+# Tech Talent South 
 
-- - -
+## Tech Talent South Enablement
+
+### Documentation
 
 Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf)
 
@@ -24,9 +26,9 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 
 ## Useful Links
 
-**Github** - https://github.com/enterlifeonline/qlx-i
+**Github** - https://github.com/enterlifeonline/techtalentsouth/
 
-**Viewer** - https://nbviewer.jupyter.org/github/enterlifeonline/qlx-i/tree/master/
+**Viewer** - https://nbviewer.jupyter.org/github/enterlifeonline/techtalentsouth/tree/master/datascience/
 
 <!-- 
 
