@@ -1,8 +1,8 @@
 <!-- 
 
-## QLX-I
+# QLX-I
 
-QLX Institute
+## QLX Institute
 
 ## Documentation
 
@@ -10,13 +10,9 @@ QLX-I [Data Science Setup and Installation Checklist](http://qlx.services/enable
 
 -->
 
-# Tech Talent South
+# Tech Talent South Enablement
 
 - - -
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/python/index.ipynb)
-
-Tech Talent South Enablement
 
 Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf)
 
