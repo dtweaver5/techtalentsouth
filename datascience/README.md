@@ -10,7 +10,11 @@ QLX-I [Data Science Setup and Installation Checklist](http://qlx.services/enable
 
 -->
 
-## Tech Talent South
+# Tech Talent South
+
+- - -
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/python/index.ipynb)
 
 Tech Talent South Enablement
 
@@ -43,6 +47,27 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 - Git Bash (for Windows) - https://gitforwindows.org/
 
 - - -
+## Google Collab
+
+### Data Science Fundamentals: Python
+ 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/python/index.ipynb)
+
+### Data Science Fundamentals: R
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/r/index.ipynb)
+
+### Data Science Fundamentals: Julia
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
+### Data Science Fundamentals: Julia [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
+### Data Science Fundamentals: Python-based Web Framework - Django [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
+### Data Science Fundamentals: Python-based Web Framework - Flask [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
+- - -
 
 ## Software
 
@@ -52,10 +77,6 @@ Anaconda is a free and open-source[6] distribution of the Python and R programmi
 - Miniconda (only Conda and Python packages included) - https://docs.conda.io/en/latest/miniconda.html
 
 ### Installation
-
-Instructions on Installation on a [ChromeBook OS](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/)
-
-- - -
 
 To install the requirements using [conda](http://conda.pydata.org), run the following at the command-line:
 
