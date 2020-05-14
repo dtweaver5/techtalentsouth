@@ -53,19 +53,30 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
  
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/python/index.ipynb)
 
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+
 ### Data Science Fundamentals: R
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/r/index.ipynb)
+
+R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 
 ### Data Science Fundamentals: Julia
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
-### Data Science Fundamentals: Julia [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+Julia is a high-level, high-performance, dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well-suited for high-performance numerical analysis and computational science.
 
-### Data Science Fundamentals: Python-based Web Framework - Django [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+### Data Science Fundamentals: Python-based Web Framework - Django 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
-### Data Science Fundamentals: Python-based Web Framework - Flask [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern.
+
+### Data Science Fundamentals: Python-based Web Framework - Flask 
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 - - -
 
