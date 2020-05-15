@@ -1,8 +1,9 @@
 # Tech Talent South
+
 ## How To Submit Your Exercises
 
 [Watch Video](https://youtu.be/GCd4auHwZZY)
----
+
 [![How To Submit Your Exercises](https://img.youtube.com/vi/GCd4auHwZZY/0.jpg)](https://www.youtube.com/watch?v=GCd4auHwZZY)
 
 - - - 
