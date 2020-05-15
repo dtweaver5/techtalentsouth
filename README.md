@@ -15,11 +15,14 @@ In order to use Git Bash commands from command line, you need to install Git bas
 - [Git For Windows](https://gitforwindows.org/)
 - [Git For Mac OS](https://git-scm.com/download/mac)
 
+<!-- 
 ## Video Instructions
 
 [Watch Video](https://www.youtube.com/watch?v=psDD60rq0s4)
 ---
 [![Create A Github Repository To Save Answers](https://img.youtube.com/vi/psDD60rq0s4/0.jpg)](https://www.youtube.com/watch?v=psDD60rq0s4)
+
+!-->
 ---
 
 ## Creating Github Repository
