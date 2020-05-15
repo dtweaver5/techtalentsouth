@@ -8,9 +8,9 @@
 
 QLX-I [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/qlx-iDataScienceChecklist.pdf)
 
--->
+!-->
 
-# Tech Talent South 
+# Tech Talent South
 
 ## Tech Talent South Enablement
 
@@ -22,19 +22,21 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 
 [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-91205-8.
 
-- - -
+- - - 
 
 ## Useful Links
 
-**Github** - https://github.com/enterlifeonline/techtalentsouth/
+<!--
 
-**Viewer** - https://nbviewer.jupyter.org/github/enterlifeonline/techtalentsouth/tree/master/datascience/
-
-<!-- 
+**Github** - https://git.qlx.com/gsjackson/QLX-I/
 
 **Slack** - https://qlx-i.slack.com
 
 !-->
+
+**Github** - https://github.com/enterlifeonline/techtalentsouth/tree/master/datascience
+
+**Viewer** - https://nbviewer.jupyter.org/github/enterlifeonline/techtalentsouth/tree/master/datascience/
 
 **Slack** - https://tts-students.slack.com
 
@@ -61,22 +63,20 @@ R is a programming language and free software environment for statistical comput
 
 ### Data Science Fundamentals: Julia
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/julia/index.ipynb)
 
 Julia is a high-level, high-performance, dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well-suited for high-performance numerical analysis and computational science.
 
 ### Data Science Fundamentals: Python-based Web Framework - Django 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/frameworks/18_mod_django/index.ipynb)
 
 Django is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern.
 
 ### Data Science Fundamentals: Python-based Web Framework - Flask 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/frameworks/19_mod_flask/index.ipynb)
 
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
-
-- - -
 
 ## Software
 
