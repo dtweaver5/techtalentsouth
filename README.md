@@ -2,7 +2,8 @@
 ## How To Submit Your Exercises
 
 [Watch Video](https://youtu.be/GCd4auHwZZY)
-[![How To Submit Your Exercises](https://youtu.be/GCd4auHwZZY/0.jpg)](https://youtu.be/GCd4auHwZZY)
+---
+[![How To Submit Your Exercises](https://youtube.com/vi/GCd4auHwZZY/0.jpg)](https://youtube.com/watch?v=/GCd4auHwZZY)
 
 - - - 
 
