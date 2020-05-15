@@ -1,3 +1,11 @@
+# Tech Talent South
+## How To Submit Your Exercises
+
+[Watch Video](https://youtu.be/GCd4auHwZZY)
+[![How To Submit Your Exercises](https://youtu.be/GCd4auHwZZY/0.jpg)](https://youtu.be/GCd4auHwZZY)
+
+- - - 
+
 ## Installation Required
 
 In order to use Git Bash commands from command line, you need to install Git based on the operating system you are using: 
