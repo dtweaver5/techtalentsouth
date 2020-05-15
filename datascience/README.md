@@ -47,7 +47,7 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 - Git Bash (for Windows) - https://gitforwindows.org/
 
 - - -
-## Google Collab
+## Google Colab
 
 ### Data Science Fundamentals: Python
  
