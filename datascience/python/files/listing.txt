@@ -1,0 +1,23 @@
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Ghost
+Library
+Movies
+Music
+Pictures
+Public
+dev-setup.log
+dev-setup.sh
+dwhelper
+eclipse
+eclipse-workspace
+enthought
+garystephenjackson@gmail.com Creative Cloud Files
+get-pip.py
+listing.txt
+node_modules
+package-lock.json
+rpmbuild
