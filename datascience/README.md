@@ -47,7 +47,7 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 - Git Bash (for Windows) - https://gitforwindows.org/
 
 - - -
-## Google Colab
+## Google Collab
 
 ### Data Science Fundamentals: Python
  
@@ -111,9 +111,13 @@ You can read more about using conda environments in the [Managing Environments](
 **[How To Install/Startup On Mac OS](https://www.youtube.com/watch?v=F1cO_gLnh60)**
 ---
 [![How To Install/Startup On Mac OS](https://img.youtube.com/vi/F1cO_gLnh60/0.jpg)](https://www.youtube.com/watch?v=F1cO_gLnh60)
----
 
-### Markup Language
+---
+**[How To Install/Startup Using ChromeOS](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/)**
+---
+[![How To Install/Startup Using ChromeOS](https://img.youtube.com/vi/bhM1cCu8uXE/0.jpg)](https://www.youtube.com/watch?v=bhM1cCu8uXE)
+
+## Markup Language
 
 - [Markup Language Cheatsheet](http://qlx.services/enablement/files/readmeMD.pdf)
 
