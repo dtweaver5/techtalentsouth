@@ -26,11 +26,15 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 
 #### R
 
-[R for Data Science](https://r4ds.had.co.nz/) written by Garrett Grolemund, Hadley Wickham. Copyright 2017 O’Reilly Media, Inc.,  ISBN: 978-1-491-91039-9. **[Download PDF](./r/files/R_for_Data_Science.pdf)**
+[R for Data Science](https://r4ds.had.co.nz/) written by Garrett Grolemund, Hadley Wickham. Copyright 2017 O’Reilly Media, Inc.,  ISBN: 978-1-491-91039-9. 
+
+**[Download PDF](./r/files/R_for_Data_Science.pdf)**
 
 #### Julia
 
-[Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen B. Downey. Copyright 2019 O’Reilly Media, Inc.,  ISBN: 978-1-492-04503-8.  **[Download PDF](./julia/files/think_julia.pdf)**
+[Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen B. Downey. Copyright 2019 O’Reilly Media, Inc.,  ISBN: 978-1-492-04503-8.  
+
+**[Download PDF](./julia/files/think_julia.pdf)**
 
 - - - 
 
