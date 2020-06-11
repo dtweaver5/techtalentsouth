@@ -33,6 +33,9 @@ Tech Talent South [Data Science: **R** Setup and Installation Checklist](http://
 
 ### Julia
 - - -
+
+Tech Talent South [Data Science: **Julia** Setup and Installation Checklist](#)
+
 [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen B. Downey. (O’Reilly) Copyright 2019 O’Reilly Media, Inc.,  ISBN: 978-1-492-04503-8. **[Download PDF](http://qlx.services/enablement/files/think_julia.pdf)**
 
 - - - 
