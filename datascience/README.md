@@ -19,19 +19,19 @@ QLX-I [Data Science Setup and Installation Checklist](http://qlx.services/enable
 Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklist.pdf)
 
 #### Python
-
+- - -
 [A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
 
 [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-91205-8.
 
 #### R
-
+- - -
 [R for Data Science](https://r4ds.had.co.nz/) written by Garrett Grolemund, Hadley Wickham. Copyright 2017 O’Reilly Media, Inc.,  ISBN: 978-1-491-91039-9. 
 
 **[Download PDF](./r/files/R_for_Data_Science.pdf)**
 
 #### Julia
-
+- - -
 [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen B. Downey. Copyright 2019 O’Reilly Media, Inc.,  ISBN: 978-1-492-04503-8.  
 
 **[Download PDF](./julia/files/think_julia.pdf)**
