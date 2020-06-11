@@ -22,7 +22,7 @@ Tech Talent South [Data Science Setup and Installation Checklist](http://qlx.ser
 - - -
 [A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
 
-[Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-91205-8.
+[Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., IBSN: 978-1-491-91205-8.
 
 #### R
 - - -
